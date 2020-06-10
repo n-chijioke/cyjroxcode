@@ -1,0 +1,20 @@
+package cyjroxcode;
+import java.util.Scanner;
+public class Welcome3 {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.print("First integer: ");
+		int x = input .nextInt();
+		
+		System.out.print("Second integer: ");
+		int y = input .nextInt();
+		
+		System.out.print("Third integer: ");
+		int z = input.nextInt();
+		
+		int result = x * y * z;
+		System.out.printf("Product is %d%n", (x * y * z));
+
+	}
+
+}

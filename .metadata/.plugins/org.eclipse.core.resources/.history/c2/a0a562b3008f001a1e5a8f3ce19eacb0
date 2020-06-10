@@ -1,0 +1,19 @@
+package cyjroxcode;
+
+public class WhileCounter {
+
+	public static void main(String[] args) {
+	
+		
+	int counter = 1;
+
+while(counter <= 100);
+	
+{
+	System.out.printf(" %2d%n ", counter);
+	++counter;	
+}
+	System.out.println();
+
+}
+}

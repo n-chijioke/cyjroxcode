@@ -1,0 +1,18 @@
+package cyjroxcode;
+import java.util.Scanner;
+
+public class Main {
+
+	Scanner sc = new Scanner(System.in);
+	System.out.println("!YouHaveCough: ");
+	NotHaveCough = false   ||  !YouHaveCough  =  "True";
+	String YouHaveCough = input.next();
+	
+		if(NotHaveCough = "False") {
+			System.out.println("Do Not Have Cough")
+		}else
+			 System.out.print(YouHaveCough + "call NDCDC")
+		
+		
+	}
+}

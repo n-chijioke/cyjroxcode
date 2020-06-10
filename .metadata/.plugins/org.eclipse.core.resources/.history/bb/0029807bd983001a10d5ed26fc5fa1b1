@@ -1,0 +1,12 @@
+package cyjroxcode;
+
+public class Product {
+
+	public static void main(String[] args) {
+		
+		while(product <= 100)
+			product = 3 * product;
+System.out.println("Is the Product");
+	}
+
+}

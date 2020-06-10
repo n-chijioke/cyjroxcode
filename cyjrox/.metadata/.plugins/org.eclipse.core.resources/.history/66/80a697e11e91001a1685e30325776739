@@ -1,0 +1,24 @@
+package cyjroxcode.copy;
+
+public class Asterisk {
+
+	public static void main(String[] args) {
+		
+		
+	for(int i = 0; i <= 5; ++i) {
+		System.out.printf("*");
+	}		
+for( int number = 1; number <= 4; ++number){
+	System.out.print("*");
+}
+			System.out.println();
+			
+			
+	for(int counter = 1; counter <= 8; ++counter) {
+		System.out.print("^");
+		++counter;
+	}
+	System.out.println();
+	}
+
+}

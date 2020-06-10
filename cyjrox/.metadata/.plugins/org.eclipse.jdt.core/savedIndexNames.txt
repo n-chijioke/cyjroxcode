@@ -1,0 +1,21 @@
+INDEX VERSION 1.131+C:\Users\USSR\eclipse-workspace\cyjrox\.metadata\.plugins\org.eclipse.jdt.core
+1710134607.index
+2194010519.index
+89365630.index
+390806297.index
+2777801084.index
+526499295.index
+3059484958.index
+3168804818.index
+3437223522.index
+1248545562.index
+377763452.index
+1470393225.index
+3423673448.index
+99924096.index
+2863305185.index
+1259066183.index
+3095419469.index
+4023062069.index
+3706039251.index
+3885012584.index

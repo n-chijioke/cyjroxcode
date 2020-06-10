@@ -1,0 +1,27 @@
+package cyjroxcode;
+
+public class AsteriskCode{
+	
+	public static void main(String[] args) {
+		
+		for(int d = 1; d <= 7; d++) {
+			if( d== 1 || d == 7) {
+			for(int c = 1; c <= 7; c++) ;
+			System.out.println("*");
+			}else {
+				System.out.println("*");
+				System.out.print(" ");
+				System.out.print(" ");
+				System.out.print(" ");
+				System.out.print(" ");
+				System.out.print(" ");
+			}
+			System.out.print("*");	
+			}
+		System.out.println();
+		}
+	
+
+
+}
+

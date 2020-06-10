@@ -1,0 +1,11 @@
+package cyjroxcode.copy;
+
+import  java.util.Scanner;
+
+	public class SwitchState {
+
+		public static void main(String[] args) {
+
+	}
+
+}

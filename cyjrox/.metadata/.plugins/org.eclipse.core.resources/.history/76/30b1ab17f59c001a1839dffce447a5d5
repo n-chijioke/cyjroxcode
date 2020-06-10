@@ -1,0 +1,35 @@
+package cyjroxcode.copy;
+
+import  java.util.Scanner;
+
+	public class SwitchState {
+
+		public static void main(String[] args) {
+				Scanner sc = new Scanner(System.in);
+			
+				System.out.printf("%s%n%s%n  %s%n  %s%n", "Enter integer grade from the range of 0-100."," Type the end_of_file indicator to terminate input: ", "On UNIX/Linux/Mac OS X type <Ctrl> d then press Enter ", " on Windows type <Ctrl> z then press Enter");
+			while(sc.hasNext())
+			{
+				int grade = sc.nextInt();
+				switch(grade / 10)
+				{
+					case 9:
+					case 10:
+					break;
+					
+					case 8:
+					break;
+						
+					case 7:
+					break;
+						
+					case 6:
+					break;
+						
+						default:
+					break;
+					}
+			}
+	}
+
+}

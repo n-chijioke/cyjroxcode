@@ -1,0 +1,15 @@
+package cyjroxcode;
+
+public class AsteriskCode {
+
+	public static void main(String[] args) {
+
+	for(int f = 1; f < 8; f++){
+		for(int g = 0; g < 7; g++) {
+			System.out.println("*")
+			System.out.printf("%s%s%s%n","****","****","****");
+		}
+		System.out.println();
+	}
+	}
+}

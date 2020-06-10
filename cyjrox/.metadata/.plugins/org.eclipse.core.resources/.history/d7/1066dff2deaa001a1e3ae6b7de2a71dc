@@ -1,0 +1,13 @@
+package cyjroxcode.copy;
+
+public class ArrayList {
+
+	public static void main(String[] args) {
+		int n = 0;
+		while(n !=10 || n ==1 )
+		n++;
+		System.out.print("not rite");
+		System.out.println('b');
+	}
+
+}

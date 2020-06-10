@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author USSR
+ *
+ */
+module Helloworld {
+}

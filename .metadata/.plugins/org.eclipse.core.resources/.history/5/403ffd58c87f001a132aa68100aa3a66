@@ -1,0 +1,23 @@
+package cyjroxcode;
+import  java.util.Scanner;
+public class Welcome2 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.print("Enter NumberOfCough: ");
+	int numbers= input.nextInt();
+		System.out.println("welcome to covid test");
+int number1 = 0;
+int number2 = 5;
+if( number1  > number2){
+	System.out.println("You have Cough");
+}else { 
+	System.out.printf("You Do Not Have Cough");
+	}
+
+	}
+
+	
+	}
+
+

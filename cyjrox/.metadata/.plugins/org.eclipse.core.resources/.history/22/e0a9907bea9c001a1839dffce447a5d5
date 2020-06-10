@@ -1,0 +1,21 @@
+package cyjroxcode.copy;
+
+import  java.util.Scanner;
+
+	public class SwitchState {
+
+		public static void main(String[] args) {
+				int total = 0;
+				int gradeCounter = 0;
+				int aCount = 0;
+				int bCount = 0;
+				int cCount = 0;
+				int dCount = 0;
+				int fCount = 0;
+				
+			Scanner sc = new Scanner(System.in);
+			
+				System.out.printf("%s%n%s%n  %s%n  %s%n", "Enter integer grade from the range of 0-100", )
+	}
+
+}

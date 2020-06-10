@@ -1,0 +1,25 @@
+package cyjroxcode;
+import  java.util.Scanner;
+public class Welcome2 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("NumberOfCough");
+	String numberOfCough = sc.next();
+		System.out.print("welcome to");
+
+int counter; 
+int number = 0;
+int number2 = 5;
+if( number  > number2){
+	System.out.println("You have Cough");
+}else { 
+	System.out.printf("You Do Not Have Cough");
+	}
+
+	}
+
+	
+	}
+
+

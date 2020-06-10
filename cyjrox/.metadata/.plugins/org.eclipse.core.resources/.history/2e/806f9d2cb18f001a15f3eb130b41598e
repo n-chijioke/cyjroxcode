@@ -1,0 +1,13 @@
+package cyjroxcode.copy;
+
+public class Multiply {
+
+	public static void main(String[] args) {
+		System.out.println("Hello world");
+
+	for(int j = 3; j <= 12; ++j)
+		System.out.println(j * 3);
+		
+	}
+
+}

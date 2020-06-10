@@ -1,0 +1,19 @@
+package cyjroxcode;
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+	Scanner sc = new Scanner(System.in);
+	System.out.println(" NumberOfCough: ");
+	int  numberOfCough = input.nextint();
+	
+	int Counter;
+	int number = 1;
+if(counter = 4, counter >= number, 1--)
+			System.out.println("you have Cough + Call NCDC");
+else {
+			 System.out.print("Drink water")}
+		
+		
+	}
+}
